@@ -26,5 +26,3 @@ printed not counting \\0 for the string.
 .I printf(3)
 .SH BUGS
 No known bugs.
-.SH AUTHOR
-Steven Garcia
